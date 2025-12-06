@@ -52,19 +52,12 @@
   <span style="font-family: 'Courier New', monospace;">From database queries to container orchestration, performance tuning to auto-scaling infrastructure—<strong>I've got both sides covered.</strong></span>
 </p>
 
-<h3 style="font-family: 'Consolas', monospace; color: #3fb950;">🎮 Currently:</h3>
-```bash
-$ Building cool stuff
-$ Breaking things in staging (not prod!) 
-$ Optimizing for speed
-$ Learning something new every day
-```
-
 <div align="center">
   
 > <p style="font-family: 'Georgia', serif; font-size: 1.2em; font-style: italic; color: #d29922;">💡 "Why choose between backend development and DevOps when you can master both and ship production-ready apps that scale?"</p>
 
 </div>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikesh-shrestha-nextjsdev/?skipRedirect=true) 
 
