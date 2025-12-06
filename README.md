@@ -1,7 +1,66 @@
 # 💫 About Me:
-👋 Hey there! I'm a Code Builder & Cloud Architect<br>I turn ideas into reality by building powerful backend systems and making sure they run smoothly in the cloud optimized, scalable, and production-ready.<br>What I do:<br><br>🚀 Craft scalable APIs and server-side magic with Next.js, Node.js, Express & PostgreSQL<br>☁️ Deploy and orchestrate applications using AWS, Kubernetes & Docker<br>🔧 Automate everything with Terraform, Jenkins, CI/CD pipelines & Bash scripting<br>⚡ Optimize performance and ensure applications are production-ready from day one<br>📈 Design for scalability—because your app should grow as fast as your users do<br><br>I'm that developer who writes the code and makes sure it deploys flawlessly. From database queries to container orchestration, performance tuning to auto-scaling infrastructure—I've got both sides covered.<br>Currently: Building cool stuff, breaking things in staging (not prod!), optimizing for speed, and learning something new every day.<br>💡 "Why choose between backend development and DevOps when you can master both and ship production-ready apps that scale?"<br><br>This version emphasizes your focus on performance, scalability, and production readiness while maintaining that engaging, attention-grabbing tone!Claude is AI and can make mistakes. Please double-check responses.
 
+<div align="center">
+  
+### 👋 Hey there! I'm a Code Builder & Cloud Architect
 
+<p align="center">
+  <em>I turn ideas into reality by building <strong>powerful backend systems</strong> and making sure they run smoothly in the cloud—<strong>optimized, scalable, and production-ready</strong>.</em>
+</p>
+
+</div>
+
+---
+
+### 🎯 What I do:
+
+<table>
+<tr>
+<td width="50%">
+
+🚀 **Backend Development**
+- Craft scalable APIs with Next.js, Node.js & Express
+- Design robust PostgreSQL databases
+- Build production-ready server architecture
+
+</td>
+<td width="50%">
+
+☁️ **DevOps & Cloud**
+- Deploy on AWS, Kubernetes & Docker
+- Automate with Terraform & Jenkins CI/CD
+- Bash scripting for workflow automation
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+⚡ **Performance Optimization** • 📈 **Scalability Design** • 🔒 **Production-Ready Solutions**
+
+</div>
+
+---
+
+<p align="center">
+  <em>I'm that developer who writes the code <strong>and</strong> makes sure it deploys flawlessly.</em><br>
+  From database queries to container orchestration, performance tuning to auto-scaling infrastructure—<strong>I've got both sides covered.</strong>
+</p>
+
+### 🎮 Currently:
+```
+$ Building cool stuff
+$ Breaking things in staging (not prod!) 
+$ Optimizing for speed
+$ Learning something new every day
+```
+
+<div align="center">
+  
+> 💡 *"Why choose between backend development and DevOps when you can master both and ship production-ready apps that scale?"*
+
+</div>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikesh-shrestha-nextjsdev/?skipRedirect=true) 
 
