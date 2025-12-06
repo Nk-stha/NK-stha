@@ -1,36 +1,32 @@
 # 💫 About Me:
 
 <div align="center">
-  
-<h1 style="font-family: 'Courier New', monospace; font-size: 2.5em; color: #58a6ff;">
-  👋 Hey there! I'm a Code Builder & Cloud Architect
-</h1>
 
-<p align="center" style="font-family: 'Georgia', serif; font-size: 1.2em; font-style: italic;">
-  <em>I turn ideas into reality by building <strong style="color: #58a6ff;">powerful backend systems</strong> and making sure they run smoothly in the cloud—<strong style="color: #3fb950;">optimized, scalable, and production-ready</strong>.</em>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=👋+Hey+there!+I'm+a+Code+Builder+%26+Cloud+Architect" alt="Typing SVG" />
 
 </div>
 
+<p align="center">
+  <em><strong>I turn ideas into reality by building powerful backend systems and making sure they run smoothly in the cloud—optimized, scalable, and production-ready.</strong></em>
+</p>
+
 ---
 
-<h2 style="font-family: 'Arial Black', sans-serif; color: #f78166;">🎯 What I do:</h2>
+### 🎯 What I do:
 
 <table>
 <tr>
-<td width="50%" style="font-family: 'Verdana', sans-serif;">
+<td width="50%">
 
-<h3 style="color: #58a6ff;">🚀 Backend Development</h3>
-
+#### 🚀 **Backend Development**
 - Craft scalable APIs with **Next.js, Node.js & Express**
 - Design robust **PostgreSQL** databases
 - Build **production-ready** server architecture
 
 </td>
-<td width="50%" style="font-family: 'Verdana', sans-serif;">
+<td width="50%">
 
-<h3 style="color: #58a6ff;">☁️ DevOps & Cloud</h3>
-
+#### ☁️ **DevOps & Cloud**
 - Deploy on **AWS, Kubernetes & Docker**
 - Automate with **Terraform & Jenkins CI/CD**
 - **Bash scripting** for workflow automation
@@ -39,7 +35,7 @@
 </tr>
 </table>
 
-<div align="center" style="font-family: 'Trebuchet MS', sans-serif; font-size: 1.1em;">
+<div align="center">
 
 ⚡ **Performance Optimization** • 📈 **Scalability Design** • 🔒 **Production-Ready Solutions**
 
@@ -47,13 +43,24 @@
 
 ---
 
-<p align="center" style="font-family: 'Georgia', serif; font-size: 1.1em;">
+<p align="center">
   <em>I'm that developer who writes the code <strong>and</strong> makes sure it deploys flawlessly.</em><br>
-  <span style="font-family: 'Courier New', monospace;">From database queries to container orchestration, performance tuning to auto-scaling infrastructure—<strong>I've got both sides covered.</strong></span>
+  <code>From database queries to container orchestration, performance tuning to auto-scaling infrastructure—I've got both sides covered.</code>
 </p>
 
-<h3 style="font-family: 'Consolas', monospace; color: #3fb950;">🎮 Currently:</h3>
+### 🎮 Currently:
 ```bash
+$ Building cool stuff
+$ Breaking things in staging (not prod!) 
+$ Optimizing for speed
+$ Learning something new every day
+```
+
+<div align="center">
+  
+> 💡 ***"Why choose between backend development and DevOps when you can master both and ship production-ready apps that scale?"***
+
+</div>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikesh-shrestha-nextjsdev/?skipRedirect=true) 
 
